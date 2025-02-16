@@ -1,6 +1,7 @@
 # APIAdmin
 API Admin for UI Tools using AI Code Generator.
 
+```
 modules/Admin
 ├── src/
 │   ├── CodeGenerator/
@@ -12,3 +13,4 @@ modules/Admin
 │       └── CodeWriterService.php
 └── config/
     └── routes.config.php
+```
